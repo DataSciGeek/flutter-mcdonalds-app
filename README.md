@@ -5,7 +5,9 @@ In this project, I have made this McDonald's concept app UI and also added some 
 ## Screenshots
 
 <img src='https://github.com/bayardkalyan/flutter-mcdonalds-app/blob/master/ss/1.png' align='left' width='25%'>
+
 <img src='https://github.com/bayardkalyan/flutter-mcdonalds-app/blob/master/ss/2.png' align='left' width='25%'>
+
 <img src='https://github.com/bayardkalyan/flutter-mcdonalds-app/blob/master/ss/3.png' align='left' width='25%'>
 
 
